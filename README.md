@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://subal-roy.github.io/](https://subal-roy.github.io/)
-
 - 📫 How to reach me **roy1807022@stud.kuet.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
