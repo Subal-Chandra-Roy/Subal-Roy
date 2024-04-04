@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subal-roy&label=Profile%20views&color=0e75b6&style=flat" alt="subal-roy" /> </p>
 
-- 🔭 I’m currently working on [ShopEase]([https://github.com/Subal-Roy/E-Learning-App](https://github.com/Subal-Roy/ShopEase))
+- 🔭 I’m currently working on [ShopEase](https://github.com/Subal-Roy/ShopEase)
 
 - 🌱 I’m currently learning **MERN**
 
