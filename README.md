@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subal-roy&label=Profile%20views&color=0e75b6&style=flat" alt="subal-roy" /> </p>
 
-- 🔭 I’m currently working on [JobCraft](https://github.com/Subal-Roy/JobCraft)
-
-- 🌱 I’m currently learning **Laravel** and **React**
+- 🔭 I’m currently working on with **Laravel** and **React**
 
 - 📫 How to reach me **subalroy5561@gmail.com**
 
