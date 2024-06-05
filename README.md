@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subal Chandra Roy</h1>
-<h3 align="center">A recent graduate in CSE from KUET</h3>
+<h3 align="center">A recent graduate of CSE,KUET</h3>
 
 <img align = "right" alt="coding" width="400" src="https://miraculoussoft.com/wp-content/uploads/2022/03/best-PHP-Development-Services-new-york.gif">
 
